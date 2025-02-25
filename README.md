@@ -18,10 +18,6 @@ Currently, I am pursuing my engineering degree at **UM6P, College of Computing**
 - **Proficient in:** C, C++, Python, Java, Go  
 - **Strong grasp of:** Data Structures & Algorithms  
 
-### **🔹 Media & Marketing**  
-- **Expertise in:** Media Buying (Snapchat, Meta, TikTok)  
-- **Experience in:** Social Media Marketing  
-
 ### **🔹 Software & Tools**  
 - Git, LaTeX, UML  
 - Windows/Linux  
