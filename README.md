@@ -1,9 +1,9 @@
 # 🌟 Hello World! I'm **Jaafar YEFFOU** 🚀  
 
 ### *AI Engineer | Full-Stack Developer | Automation Specialist* 
-I am a passionate **Computer Science Engineer** with a strong background in **Artificial Intelligence, Machine Learning, and AI-driven process automation**. I thrive on solving complex challenges and leveraging **AI agents** to optimize workflows and decision-making.  
+I am a passionate **Computer Science Student** with a strong background in **Artificial Intelligence, Machine Learning, and AI-driven process automation**. I thrive on solving complex challenges and leveraging **AI agents** to optimize workflows and decision-making.  
 
-Currently, I am pursuing my engineering degree at **UM6P, College of Computing** (2024-2027) and looking for opportunities to apply my skills in **AI, software development, and automation** in real-world projects.  
+Currently, I am in my **third year** of engineering at **UM6P, College of Computing** (2024-2027) and looking for opportunities to apply my skills in **AI, software development, and automation** in real-world projects.
 
 ## 🛠️ Technical Skills  
 ### **🔹 Full-Stack Development**  
@@ -47,15 +47,7 @@ Currently, I am pursuing my engineering degree at **UM6P, College of Computing**
 - **Competitor Analysis (2024)** → Analyzing the weaknesses and strengths of competitors through news, LinkedIn, social media, and YouTube using Relevance AI.
 - **AI Agent for Outreach & Email Management (2025)** → Built an AI agent to **automate prospecting, outreach, and follow-ups** for businesses.   
 
-## 🌍 Languages  
-- **Arabic** (Native)  
-- **English** (B2)  
-- **French** (B2)  
-
-## 🎯 Interests  
-🏆 Chess | 🏊 Swimming | 🥅 Goalkeeping | ✈️ Traveling  
-
-## 📬 Contact  
+## 📬 Let's Connect!  
 📧 Email: [Jaafar.yeffou@um6p.ma](mailto:Jaafar.yeffou@um6p.ma)  
 📍 Location: El Jadida, Morocco  
 📞 Phone number: +212 652789630 
