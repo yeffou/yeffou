@@ -36,7 +36,7 @@ Currently, I am pursuing my engineering degree at **UM6P, College of Computing**
 - **Baccalauréat Science Math A (Mention Très Bien)** | **Lycée Ihssane, El Jadida** (2021-2022)  
 
 ## 🔬 Academic & Professional Projects  
-- **LEAP with ToumAI (2025)** → AI-powered conversational agent for low-resource languages.  
+- **LEAP with ToumAI (2025)** → AI-powered conversational agent for low-resource languages, leveraging pre-trained LLMs, reinforcement learning, multilingual NLP, and ethical AI frameworks.  
 - **Anti-Food Waste Startup (2024)** → Solution to reduce food waste in Morocco, presented at Start Gate.  
 - **Stock Market Prediction AI (2023)** → Built an AI model using Python (NumPy, Pandas, scikit-learn) for stock trend analysis.  
 - **Traffic Simulation (2024)** → Modeled a traffic system with Unity and C#.  
